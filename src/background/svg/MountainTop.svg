@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" class="MountainTop" style="enable-background:new 0 0 800 262.1" viewBox="0 0 800 262.1">
+    <defs>
+      <linearGradient gradientTransform="rotate(171, 0.5, 0.5)" x1="50%" y1="0%" x2="50%" y2="100%" id="ffflux-gradient"><stop stop-color="hsl(226, 73%, 5%, 0)" stop-opacity="1" offset="0%"></stop><stop stop-color="hsl(227, 36%, 13%)" stop-opacity="1" offset="80%"></stop></linearGradient>
+    </defs>
+    <path d="M-39.8 178.1s138.3-27.5 165.6-32c27.2-4.5 32.5 13.3 55 21.7 22.5 8.4 59.2-27.2 81.2-38 22-10.9 50.3-30.6 74.4-12.8 24.1 17.8 75.4 75.1 138.3 38.5C537.6 119 569 119 614.1 136.7c45.1 17.8 41.9 19.9 66 9.4s27.4-21.2 67.1-2.1c39.7 19.1 61.9 25.3 61.9 25.3v95.2H-39.8v-86.4z" class="gradient-fill"/>
+</svg>

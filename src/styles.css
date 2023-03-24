@@ -1,0 +1,17 @@
+html,
+body {
+  margin: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: linear-gradient(0deg, #15151f 68%, #31363b 100%);
+
+  color: black;
+}
+
+.gradient-fill {
+  fill: url(#ffflux-gradient);
+  /* filter: url(#ffflux-filter); */
+}
